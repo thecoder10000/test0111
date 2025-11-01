@@ -1,0 +1,6 @@
+sth like a hashtag
+
+vscode install
+
+-streamlit
+-openai
